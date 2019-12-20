@@ -171,4 +171,9 @@ paper wins
 """
 
 
-# https://repl.it/@FrancZalez/francnstein     *******************  USE THIS LINK  IS TO PLAY
+
+# ------------------------->
+
+# https://repl.it/@FrancZalez/francnstein      USE THIS LINK  IS TO PLAY
+
+#--------------------------->
